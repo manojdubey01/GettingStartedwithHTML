@@ -1,0 +1,63 @@
+Question 1: Done. File name "index.html"
+
+...................................................................................
+
+Question 2: Explain the purpose of comments in HTML and provide an example of how to use comments in an HTML documents
+
+Ans:
+Comments in HTML serve as non-rendered text that provides information about the code for human readers.
+They are useful for documenting your code, explaining its purpose, making notes, or temporarily disabling parts
+of the code without deleting them. Comments are ignored by browsers and do not affect the rendering of the webpage.
+
+The first comment provides an explanation about the purpose of the heading.
+The second comment is used to disable the paragraph temporarily. If you remove the <!-- and --> around
+the <p> tag, the paragraph will be displayed again.
+
+File name "comments.html"
+
+...................................................................................
+
+Question 3:
+Write an HTML program that includes a heading, a paragraph of text, a horizontal line and a line break.
+Arrange this  elements to create a simple web page layout.
+Ans: Done. File name "question3.html"
+
+...................................................................................
+
+Question 4: Write a short note on Tag and element with an example?
+Ans:
+
+HTML Tags: Tags are the starting and ending parts of an HTML element. They begin with < symbol and end with > symbol.
+Whatever written inside < and > are called tags. Tags are of two types. Opening Tag and Closing Tag.
+
+Example: 
+<b>This tag will make the text bold </b>
+
+Here,
+Opening Tag = <b>
+Closing Tag = </b>
+and content = "This tag will make the text bold"
+
+Tags ususally comes in pairs, first Opening tag and the then closing tag with the name of the element enclosed within the tag.
+
+
+Element: An HTML element is defined by a start tag, some content, and an end tag.
+
+The HTML element is everything from the start tag to the end tag:
+
+<tagname>Content goes here...</tagname>
+
+Example:
+
+<h1>My First Heading</h1>
+<p>My first paragraph.</p>
+
+...................................................................................
+
+Question 5: What is the DOCTYPE Declaration in HTML?
+
+Ans:
+The DOCTYPE declaration in HTML is a special instruction placed at the beginning of an HTML document to 
+specify the version of HTML being used. It ensures proper rendering and parsing by web browsers. The most 
+common declaration, <!DOCTYPE html>, indicates the use of HTML5, the latest version of HTML.
+
